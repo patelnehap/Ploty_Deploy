@@ -1,4 +1,4 @@
-### Ploty_Deploy
+### Ploty_Deploy : Web page URL: https://patelnehap.github.io/Ploty_Deploy/js/
 
 ### Overview: 
 Roza is a biological researcher who is tasked to create an interactive dashboard to explore the Belly Button Biodiversity dataset 
@@ -15,3 +15,6 @@ A bubble chart that displays bacterial cultures per sample and a guage chart to 
 
 ### Summary
 Roza created a github page to allow her candiates to use the webpage. This was also very cost efficient approach to identify the bacterial species in hum belly button.
+
+
+
